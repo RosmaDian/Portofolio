@@ -35,7 +35,7 @@ FROM
 ) a;
 
 -- In this analysis sql is combined with python to get better results
--- FILE PYTHON : dcc.ipnyb
+-- FILE PYTHON : Analize Course Conversioan.ipnyb
 
 -- Data analyzed using Python is obtained from the following query
 SELECT 
